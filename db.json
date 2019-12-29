@@ -87,37 +87,5 @@
   "id": 22,
   "name": "Gull, dusky",
   "category": "Goldenrod"
-}, {
-  "id": 23,
-  "name": "Egyptian cobra",
-  "category": "Fuscia"
-}, {
-  "id": 24,
-  "name": "Sable antelope",
-  "category": "Khaki"
-}, {
-  "id": 25,
-  "name": "Tortoise, galapagos",
-  "category": "Indigo"
-}, {
-  "id": 26,
-  "name": "Carmine bee-eater",
-  "category": "Orange"
-}, {
-  "id": 27,
-  "name": "Lapwing (unidentified)",
-  "category": "Blue"
-}, {
-  "id": 28,
-  "name": "Dusky gull",
-  "category": "Maroon"
-}, {
-  "id": 29,
-  "name": "Agile wallaby",
-  "category": "Teal"
-}, {
-  "id": 30,
-  "name": "Woodpecker, downy",
-  "category": "Violet"
 }]
 }
