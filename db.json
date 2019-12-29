@@ -1,0 +1,203 @@
+{
+"products": [{
+  "id": 1,
+  "name": "Lorikeet, scaly-breasted",
+  "category": "Fuscia"
+}, {
+  "id": 2,
+  "name": "Frilled lizard",
+  "category": "Teal"
+}, {
+  "id": 3,
+  "name": "Bohor reedbuck",
+  "category": "Orange"
+}, {
+  "id": 4,
+  "name": "Kaffir cat",
+  "category": "Teal"
+}, {
+  "id": 5,
+  "name": "Indian porcupine",
+  "category": "Crimson"
+}, {
+  "id": 6,
+  "name": "Cat, african wild",
+  "category": "Mauv"
+}, {
+  "id": 7,
+  "name": "Capuchin, white-fronted",
+  "category": "Aquamarine"
+}, {
+  "id": 8,
+  "name": "Wildebeest, blue",
+  "category": "Aquamarine"
+}, {
+  "id": 9,
+  "name": "Lemur, lesser mouse",
+  "category": "Teal"
+}, {
+  "id": 10,
+  "name": "White-faced whistling duck",
+  "category": "Aquamarine"
+}, {
+  "id": 11,
+  "name": "Cat, miner's",
+  "category": "Indigo"
+}, {
+  "id": 12,
+  "name": "Flicker, field",
+  "category": "Purple"
+}, {
+  "id": 13,
+  "name": "Native cat",
+  "category": "Indigo"
+}, {
+  "id": 14,
+  "name": "Sage grouse",
+  "category": "Green"
+}, {
+  "id": 15,
+  "name": "Skink, blue-tongued",
+  "category": "Green"
+}, {
+  "id": 16,
+  "name": "Crow, house",
+  "category": "Puce"
+}, {
+  "id": 17,
+  "name": "Blue wildebeest",
+  "category": "Khaki"
+}, {
+  "id": 18,
+  "name": "Turtle, long-necked",
+  "category": "Red"
+}, {
+  "id": 19,
+  "name": "Zorro, common",
+  "category": "Yellow"
+}, {
+  "id": 20,
+  "name": "Snake, buttermilk",
+  "category": "Blue"
+}, {
+  "id": 21,
+  "name": "Common zorro",
+  "category": "Indigo"
+}, {
+  "id": 22,
+  "name": "Gull, dusky",
+  "category": "Goldenrod"
+}, {
+  "id": 23,
+  "name": "Egyptian cobra",
+  "category": "Fuscia"
+}, {
+  "id": 24,
+  "name": "Sable antelope",
+  "category": "Khaki"
+}, {
+  "id": 25,
+  "name": "Tortoise, galapagos",
+  "category": "Indigo"
+}, {
+  "id": 26,
+  "name": "Carmine bee-eater",
+  "category": "Orange"
+}, {
+  "id": 27,
+  "name": "Lapwing (unidentified)",
+  "category": "Blue"
+}, {
+  "id": 28,
+  "name": "Dusky gull",
+  "category": "Maroon"
+}, {
+  "id": 29,
+  "name": "Agile wallaby",
+  "category": "Teal"
+}, {
+  "id": 30,
+  "name": "Woodpecker, downy",
+  "category": "Violet"
+}, {
+  "id": 31,
+  "name": "Hornbill, red-billed",
+  "category": "Indigo"
+}, {
+  "id": 32,
+  "name": "Kingfisher, white-throated",
+  "category": "Yellow"
+}, {
+  "id": 33,
+  "name": "Jacana, african",
+  "category": "Blue"
+}, {
+  "id": 34,
+  "name": "Bettong, brush-tailed",
+  "category": "Indigo"
+}, {
+  "id": 35,
+  "name": "Quoll, eastern",
+  "category": "Purple"
+}, {
+  "id": 36,
+  "name": "Hornbill, yellow-billed",
+  "category": "Turquoise"
+}, {
+  "id": 37,
+  "name": "Peacock, indian",
+  "category": "Orange"
+}, {
+  "id": 38,
+  "name": "Colobus, black and white",
+  "category": "Turquoise"
+}, {
+  "id": 39,
+  "name": "Eastern cottontail rabbit",
+  "category": "Orange"
+}, {
+  "id": 40,
+  "name": "Black-eyed bulbul",
+  "category": "Green"
+}, {
+  "id": 41,
+  "name": "Common waterbuck",
+  "category": "Crimson"
+}, {
+  "id": 42,
+  "name": "Golden eagle",
+  "category": "Aquamarine"
+}, {
+  "id": 43,
+  "name": "Mississippi alligator",
+  "category": "Khaki"
+}, {
+  "id": 44,
+  "name": "Rainbow lory",
+  "category": "Turquoise"
+}, {
+  "id": 45,
+  "name": "Blue peacock",
+  "category": "Violet"
+}, {
+  "id": 46,
+  "name": "Barasingha deer",
+  "category": "Turquoise"
+}, {
+  "id": 47,
+  "name": "Hare, arctic",
+  "category": "Aquamarine"
+}, {
+  "id": 48,
+  "name": "Bengal vulture",
+  "category": "Maroon"
+}, {
+  "id": 49,
+  "name": "Southern sea lion",
+  "category": "Puce"
+}, {
+  "id": 50,
+  "name": "Great cormorant",
+  "category": "Green"
+}]
+}
